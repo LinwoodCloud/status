@@ -1,31 +1,43 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: LinwoodCloud # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: GitHub
+    url: https://github.com
+  - name: Discord
+    url: https://discord.com
+  - name: Website
+    url: https://linwood.tk
+  - name: Dev-Doctor
+    url: https://dev-doctor.cf
+  - name: Dev-Doctor Docs
+    url: https://docs.dev-doctor.cf
+  - name: Linwood Launch
+    url: https://launch.linwood.tk
+  - name: Linwood Launch Docs
+    url: https://launch.linwood.tk
+  - name: Linwood Flow
+    url: https://flow.linwood.tk
+  - name: Linwood Flow Docs
+    url: https://docs.flow.linwood.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://github.com/LinwoodCloud/website/blob/main/static/img/Linwood.png?raw=true
+  name: Linwood Status
+  introTitle: "Linwood Status"
+  introMessage: Here you can find all 
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
+    - title: Discord
+      href: https://discord.linwood.tk
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
