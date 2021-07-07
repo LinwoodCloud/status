@@ -38,6 +38,7 @@ status-website:
   logoUrl: https://github.com/LinwoodCloud/website/blob/main/static/img/Linwood.png?raw=true
   name: Linwood Status
   introTitle: "Linwood Status"
+  theme: ocean
   introMessage: Here you can find all incidents.
   navbar:
     - title: Status
