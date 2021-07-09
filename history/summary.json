@@ -152,19 +152,19 @@
     "url": "https://flow.linwood.tk",
     "icon": "https://favicons.githubusercontent.com/flow.linwood.tk",
     "slug": "linwood-flow",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 321,
-    "timeDay": 332,
-    "timeWeek": 321,
-    "timeMonth": 321,
-    "timeYear": 321,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 323,
+    "timeDay": 334,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {
-      "2021-07-09": 0
+      "2021-07-09": 17
     }
   },
   {
