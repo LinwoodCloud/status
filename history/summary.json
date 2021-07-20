@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/git.codedoctor.tk",
     "slug": "code-doctor-git",
     "status": "down",
-    "uptime": "71.07%",
+    "uptime": "69.50%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.31%",
-    "uptimeMonth": "71.07%",
-    "uptimeYear": "71.07%",
+    "uptimeWeek": "46.25%",
+    "uptimeMonth": "69.50%",
+    "uptimeYear": "69.50%",
     "time": 1868,
     "timeDay": 3175,
     "timeWeek": 2510,
     "timeMonth": 1868,
     "timeYear": 1868,
     "dailyMinutesDown": {
-      "2021-07-20": 47,
+      "2021-07-20": 455,
       "2021-07-19": 1440,
       "2021-07-18": 1440,
       "2021-07-17": 1440,
@@ -32,18 +32,18 @@
     "icon": "https://favicons.githubusercontent.com/drone.codedoctor.tk",
     "slug": "code-doctor-drone",
     "status": "down",
-    "uptime": "71.07%",
+    "uptime": "69.50%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "50.31%",
-    "uptimeMonth": "71.07%",
-    "uptimeYear": "71.07%",
+    "uptimeWeek": "46.26%",
+    "uptimeMonth": "69.50%",
+    "uptimeYear": "69.50%",
     "time": 1785,
     "timeDay": 7570,
     "timeWeek": 2591,
     "timeMonth": 1785,
     "timeYear": 1785,
     "dailyMinutesDown": {
-      "2021-07-20": 47,
+      "2021-07-20": 455,
       "2021-07-19": 1440,
       "2021-07-18": 1440,
       "2021-07-17": 1440,
@@ -76,9 +76,9 @@
     "url": "https://linwood.tk",
     "icon": "https://favicons.githubusercontent.com/linwood.tk",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 904,
     "timeMonth": 509,
     "timeYear": 509,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-20": 0
+    }
   },
   {
     "name": "Dev-Doctor",
@@ -130,9 +132,9 @@
     "url": "https://launch.linwood.tk",
     "icon": "https://favicons.githubusercontent.com/launch.linwood.tk",
     "slug": "linwood-launch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,16 +143,18 @@
     "timeWeek": 397,
     "timeMonth": 496,
     "timeYear": 496,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-20": 0
+    }
   },
   {
     "name": "Linwood Launch Docs",
     "url": "https://launch.linwood.tk",
     "icon": "https://favicons.githubusercontent.com/launch.linwood.tk",
     "slug": "linwood-launch-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,16 +163,18 @@
     "timeWeek": 19,
     "timeMonth": 18,
     "timeYear": 18,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-20": 0
+    }
   },
   {
     "name": "Linwood Flow",
     "url": "https://flow.linwood.tk",
     "icon": "https://favicons.githubusercontent.com/flow.linwood.tk",
     "slug": "linwood-flow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -178,6 +184,7 @@
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
+      "2021-07-20": 0,
       "2021-07-09": 17
     }
   },
@@ -186,9 +193,9 @@
     "url": "https://docs.flow.linwood.tk",
     "icon": "https://favicons.githubusercontent.com/docs.flow.linwood.tk",
     "slug": "linwood-flow-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,7 +204,9 @@
     "timeWeek": 385,
     "timeMonth": 541,
     "timeYear": 541,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-20": 0
+    }
   },
   {
     "name": "GitHub",
@@ -205,11 +214,11 @@
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "git-hub",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 107,
     "timeDay": 36,
     "timeWeek": 121,
