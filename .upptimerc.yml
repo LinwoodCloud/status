@@ -31,7 +31,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.linwood.tk
+  cname: status.linwood.dev
   # baseUrl: /your-repo-name
   logoUrl: https://github.com/LinwoodCloud/website/blob/main/static/img/Linwood.png?raw=true
   name: Linwood Status
@@ -44,7 +44,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER
     - title: Discord
-      href: https://discord.linwood.tk
+      href: https://discord.linwood.dev
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
