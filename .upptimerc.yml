@@ -3,9 +3,9 @@ owner: LinwoodCloud # Your GitHub organization or username, where this repositor
 repo: status # The name of this repository
 
 sites:
-  - name: CodeDoctor - Git
+  - name: Linwood Git
     url: https://git.linwood.dev
-  - name: CodeDoctor - Drone
+  - name: Linwood Drone
     url: https://drone.linwood.dev
   - name: Website
     url: https://linwood.dev
