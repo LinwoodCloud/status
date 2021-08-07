@@ -6,7 +6,7 @@ sites:
   - name: Linwood Git
     url: https://git.linwood.dev
   - name: Linwood Drone
-    url: https://drone.linwood.dev
+    url: https://ci.linwood.dev
   - name: Website
     url: https://linwood.dev
   - name: Dev-Doctor
