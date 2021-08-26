@@ -47,15 +47,15 @@
     "url": "https://linwood.dev",
     "icon": "https://favicons.githubusercontent.com/linwood.dev",
     "slug": "website",
-    "status": "up",
-    "uptime": "96.24%",
+    "status": "down",
+    "uptime": "96.28%",
     "uptimeDay": "82.03%",
-    "uptimeWeek": "81.15%",
-    "uptimeMonth": "93.62%",
-    "uptimeYear": "96.24%",
+    "uptimeWeek": "81.17%",
+    "uptimeMonth": "93.68%",
+    "uptimeYear": "96.28%",
     "time": 348,
     "timeDay": 368,
-    "timeWeek": 342,
+    "timeWeek": 343,
     "timeMonth": 339,
     "timeYear": 348,
     "dailyMinutesDown": {
@@ -68,8 +68,7 @@
       "2021-08-20": 411,
       "2021-08-19": 379,
       "2021-08-18": 328,
-      "2021-08-17": 179,
-      "2021-08-16": 27
+      "2021-08-17": 179
     }
   },
   {
@@ -118,7 +117,7 @@
     "uptimeYear": "97.80%",
     "time": 239,
     "timeDay": 148,
-    "timeWeek": 214,
+    "timeWeek": 216,
     "timeMonth": 208,
     "timeYear": 239,
     "dailyMinutesDown": {
@@ -262,7 +261,7 @@
     "uptimeYear": "89.87%",
     "time": 262,
     "timeDay": 204,
-    "timeWeek": 195,
+    "timeWeek": 194,
     "timeMonth": 225,
     "timeYear": 262,
     "dailyMinutesDown": {
