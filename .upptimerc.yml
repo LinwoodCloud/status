@@ -16,7 +16,7 @@ sites:
   - name: Linwood Launch
     url: https://launch.linwood.dev
   - name: Linwood Launch Docs
-    url: https://launch.linwood.dev
+    url: https://docs.launch.linwood.dev
   - name: Linwood Flow
     url: https://flow.linwood.dev
   - name: Linwood Flow Docs
