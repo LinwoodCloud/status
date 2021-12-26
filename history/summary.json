@@ -309,11 +309,11 @@
     "url": "https://github.com",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "git-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
     "timeDay": 69,
@@ -321,7 +321,7 @@
     "timeMonth": 101,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2021-12-26": 6,
+      "2021-12-26": 1,
       "2021-07-17": 29
     }
   },
