@@ -5,28 +5,20 @@ repo: status # The name of this repository
 sites:
   - name: Linwood Git
     url: https://git.linwood.dev
-    maxResponseTime: 5000
   - name: Linwood Drone
     url: https://ci.linwood.dev
-    maxResponseTime: 5000
   - name: Website
     url: https://linwood.dev
+  - name: Butterfly
+    url: https://butterfly.linwood.dev
+  - name: Butterfly Docs
+    url: https://docs.butterfly.linwood.dev
   - name: Dev-Doctor
     url: https://dev-doctor.linwood.dev
   - name: Dev-Doctor Docs
     url: https://docs.dev-doctor.linwood.dev
-  - name: Linwood Launch
-    url: https://launch.linwood.dev
-  - name: Linwood Launch Docs
-    url: https://docs.launch.linwood.dev
-  - name: Linwood Flow
-    url: https://flow.linwood.dev
-  - name: Linwood Flow Docs
-    url: https://docs.flow.linwood.dev
   - name: GitHub
     url: https://github.com
-  - name: Discord
-    url: https://discord.com
   - name: Vercel
     url: https://vercel.com
 
