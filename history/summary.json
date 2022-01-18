@@ -95,9 +95,9 @@
     "url": "https://docs.butterfly.linwood.dev",
     "icon": "https://favicons.githubusercontent.com/docs.butterfly.linwood.dev",
     "slug": "butterfly-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -106,7 +106,9 @@
     "timeWeek": 85,
     "timeMonth": 100,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-18": 0
+    }
   },
   {
     "name": "Dev-Doctor",
@@ -115,9 +117,9 @@
     "slug": "dev-doctor",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "90.74%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.36%",
     "time": 243,
     "timeDay": 58,
@@ -125,7 +127,7 @@
     "timeMonth": 109,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2022-01-18": 133,
+      "2022-01-18": 126,
       "2021-08-29": 70,
       "2021-08-28": 61,
       "2021-08-27": 94,
@@ -211,9 +213,9 @@
     "slug": "vercel",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "92.36%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.96%",
     "time": 131,
     "timeDay": 125,
@@ -221,7 +223,7 @@
     "timeMonth": 114,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2022-01-18": 110
+      "2022-01-18": 103
     }
   }
 ]
