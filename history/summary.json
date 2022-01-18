@@ -113,10 +113,10 @@
     "url": "https://dev-doctor.linwood.dev",
     "icon": "https://favicons.githubusercontent.com/dev-doctor.linwood.dev",
     "slug": "dev-doctor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "91.25%",
-    "uptimeWeek": "98.75%",
+    "uptimeDay": "91.19%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.36%",
     "time": 243,
@@ -125,7 +125,7 @@
     "timeMonth": 108,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2022-01-18": 126,
+      "2022-01-18": 127,
       "2021-08-29": 70,
       "2021-08-28": 61,
       "2021-08-27": 94,
@@ -209,11 +209,11 @@
     "url": "https://vercel.com",
     "icon": "https://favicons.githubusercontent.com/vercel.com",
     "slug": "vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "92.42%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "92.82%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.96%",
     "time": 131,
     "timeDay": 126,
@@ -221,7 +221,7 @@
     "timeMonth": 114,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2022-01-18": 109
+      "2022-01-18": 103
     }
   }
 ]
