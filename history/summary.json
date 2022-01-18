@@ -95,10 +95,10 @@
     "url": "https://docs.butterfly.linwood.dev",
     "icon": "https://favicons.githubusercontent.com/docs.butterfly.linwood.dev",
     "slug": "butterfly-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 97,
@@ -107,7 +107,7 @@
     "timeMonth": 97,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2022-01-18": 25
+      "2022-01-18": 26
     }
   },
   {
@@ -117,9 +117,9 @@
     "slug": "dev-doctor",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "90.48%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.36%",
     "time": 242,
     "timeDay": 64,
@@ -127,7 +127,7 @@
     "timeMonth": 109,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2022-01-18": 137,
+      "2022-01-18": 126,
       "2021-08-29": 70,
       "2021-08-28": 61,
       "2021-08-27": 94,
