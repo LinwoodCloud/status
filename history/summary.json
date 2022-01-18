@@ -209,11 +209,11 @@
     "url": "https://vercel.com",
     "icon": "https://favicons.githubusercontent.com/vercel.com",
     "slug": "vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "91.94%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "92.82%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.96%",
     "time": 131,
     "timeDay": 115,
@@ -221,7 +221,7 @@
     "timeMonth": 111,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2022-01-18": 116
+      "2022-01-18": 103
     }
   }
 ]
