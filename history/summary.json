@@ -96,19 +96,17 @@
     "icon": "https://favicons.githubusercontent.com/docs.butterfly.linwood.dev",
     "slug": "butterfly-docs",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 100,
     "timeDay": 107,
     "timeWeek": 85,
     "timeMonth": 100,
     "timeYear": 100,
-    "dailyMinutesDown": {
-      "2022-01-18": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dev-Doctor",
@@ -152,9 +150,9 @@
     "url": "https://docs.dev-doctor.linwood.dev",
     "icon": "https://favicons.githubusercontent.com/docs.dev-doctor.linwood.dev",
     "slug": "dev-doctor-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "92.01%",
+    "uptimeDay": "91.99%",
     "uptimeWeek": "98.86%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.26%",
