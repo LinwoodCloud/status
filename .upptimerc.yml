@@ -21,10 +21,6 @@ sites:
     url: https://docs.dev-doctor.linwood.dev
   - name: Dev-Doctor Nightly
     url: https://preview.dev-doctor.linwood.dev
-  - name: GitHub
-    url: https://github.com
-  - name: Vercel
-    url: https://vercel.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
