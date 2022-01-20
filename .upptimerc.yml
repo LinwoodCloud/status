@@ -11,16 +11,20 @@ sites:
     url: https://linwood.dev
   - name: Butterfly
     url: https://butterfly.linwood.dev
-  - name: Butterfly Nightly
-    url: https://preview.butterfly.linwood.dev
+    maxResponseTime: 10000
   - name: Butterfly Docs
     url: https://docs.butterfly.linwood.dev
+  - name: Butterfly Nightly
+    url: https://preview.butterfly.linwood.dev
+    maxResponseTime: 10000
   - name: Dev-Doctor
     url: https://dev-doctor.linwood.dev
+    maxResponseTime: 10000
   - name: Dev-Doctor Docs
     url: https://docs.dev-doctor.linwood.dev
   - name: Dev-Doctor Nightly
     url: https://preview.dev-doctor.linwood.dev
+    maxResponseTime: 10000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
