@@ -11,12 +11,16 @@ sites:
     url: https://linwood.dev
   - name: Butterfly
     url: https://butterfly.linwood.dev
+  - name: Butterfly Nightly
+    url: https://preview.butterfly.linwood.dev
   - name: Butterfly Docs
     url: https://docs.butterfly.linwood.dev
   - name: Dev-Doctor
     url: https://dev-doctor.linwood.dev
   - name: Dev-Doctor Docs
     url: https://docs.dev-doctor.linwood.dev
+  - name: Dev-Doctor Nightly
+    url: https://preview.dev-doctor.linwood.dev
   - name: GitHub
     url: https://github.com
   - name: Vercel
